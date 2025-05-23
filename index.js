@@ -72,4 +72,4 @@ async function checkForUpdates() {
   }
 }
 
-client.login('MTM3NTI3NzM1NDk1NTMxMzE3Mw.G3F2MX.TNiCWnZyjoPN-229XjRmhw9eAbrD4Qq-TaWW_0');
+client.login('MTM3NTI3NzM1NDk1NTMxMzE3Mw.GyTOmJ.t0tPUkm13seMJ9UFK43E8S5HWfsWyDXG7LQZS4');
